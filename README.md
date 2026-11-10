@@ -23,6 +23,11 @@ YouTube Data API を使って、キーワードで動画を検索し、見つか
 ------------------------------
 ```
 
+## 使う技術
+
+- Python 3（google-api-python-client・python-dotenv）
+- YouTube Data API v3（API キーでキーワード検索）
+
 ## 事前準備
 
 ### 1. ライブラリのインストール
